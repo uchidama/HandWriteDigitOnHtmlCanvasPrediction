@@ -7,7 +7,7 @@
 1. clone this repository using `git`:
 
 ```sh
-git clone https://github.com/
+git clone https://github.com/uchidama/HandWriteDigitOnHtmlCanvasPrediction.git
 ```
 
 2. `cd` to the folder and run jupyter notebook:
